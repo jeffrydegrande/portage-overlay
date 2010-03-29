@@ -1,4 +1,4 @@
-yman>
+<layman>
   <overlay
      type = "git"
      src  = "git://github.com/jeffry-degrande/portage-overlay.git"
