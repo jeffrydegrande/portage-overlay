@@ -1,7 +1,7 @@
 <layman>
   <overlay
      type = "git"
-     src  = "git://github.com/jeffry-degrande/portage-overlay.git"
+     src  = "git://github.com/jeffrydegrande/portage-overlay.git"
      name = "jeffrydegrande"
      status = "unofficial"
      contact = "jeffry@jeffrydegrande.com">
