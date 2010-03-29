@@ -1,0 +1,17 @@
+yman>
+  <overlay
+     type = "git"
+     src  = "git://github.com/jeffry-degrande/portage-overlay.git"
+     name = "jeffrydegrande"
+     status = "unofficial"
+     contact = "jeffry@jeffrydegrande.com">
+
+    <link>
+      http://github.com/jeffrydegrande/portage-overlay
+    </link>
+
+    <description>
+      My Gentoo overlay
+    </description>
+  </overlay>
+</layman>
